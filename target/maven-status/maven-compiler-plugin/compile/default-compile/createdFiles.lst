@@ -1,0 +1,6 @@
+com\xyq\rabbitmq_springboot\consumer\FanoutConsumer.class
+com\xyq\rabbitmq_springboot\consumer\RouterConsumer.class
+com\xyq\rabbitmq_springboot\RabbitmqSpringbootApplication.class
+com\xyq\rabbitmq_springboot\consumer\HelloConsumer.class
+com\xyq\rabbitmq_springboot\consumer\WorkConsumer.class
+com\xyq\rabbitmq_springboot\consumer\producer.class
